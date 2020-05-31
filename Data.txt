@@ -1,0 +1,10 @@
+nader atef    91900    66  88  Cairo haram  1888
+omar  ahmed   10008    88  66   Giza  haram 1233
+mostafa doc  99999    100 100 sydney feisal 1234
+mohamed atef 11111    150 150 tornoto feisal 4444
+ali badry     76661    160 60  ohaio maadi  5555
+ibrahim kimo  89116    170 70  wales  tagmo3 6666
+mahmoud ibrahim 65432    50  90  london ifalk  7777
+hussien sehata  19876    17  200 berlin  bafari 8888
+arafaat ibrahim 67123    88  11  ankara onkr 9999
+barakat mohamed 78123    200 20  makka  elk3ba 1111
